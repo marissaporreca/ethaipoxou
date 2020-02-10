@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phahquoos.19950128.com/sitemap.xml
